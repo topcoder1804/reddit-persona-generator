@@ -1,0 +1,225 @@
+
+# USER PERSONA: KOJIED
+
+Generated on: 2025-07-14 10:19:42
+Generated using: meta-llama/llama-4-scout-17b-16e-instruct
+
+## ACCOUNT OVERVIEW
+- **Username**: kojied
+- **Account Created**: 2020-01-03
+- **Comment Karma**: 1,822
+- **Link Karma**: 216
+- **Posts Analyzed**: 31
+- **Comments Analyzed**: 150
+
+## COMPREHENSIVE PERSONA ANALYSIS
+
+## DEMOGRAPHICS
+
+* **Age estimate:** Late 20s to early 40s. The user's language patterns, references, and life stage indicators suggest they are likely in this age range. For example, their familiarity with technology and online platforms, as well as their interests in various hobbies and topics, are consistent with someone in this age group. (e.g., [COMMENT #1](https://www.reddit.com/r/AskReddit/comments/187), [POST #6](https://www.reddit.com/r/stocks/comments/2020-03-17/still-buying-options/))
+* **Location hints:** New York City or surrounding areas. The user frequently references NYC and its subreddits (e.g., [r/AskNYC](https://www.reddit.com/r/AskNYC/), [r/FoodNYC](https://www.reddit.com/r/FoodNYC/)), and their knowledge of local culture and events suggests they are familiar with the area. (e.g., [COMMENT #31](https://www.reddit.com/r/AskNYC/comments/2024-05-09/oh-yeah-the-immigration-for-non-americans-is-bad-in-nyc-especially-at-jfk-you-could-be-waiting-there-for1-5-hours-just-at-immigration/))
+* **Occupation/education clues:** Technical background, possibly in software development or a related field. The user's technical knowledge and references to programming (e.g., [COMMENT #9](https://www.reddit.com/r/visionosdev/comments/2024-03-01/best-blogs-tutorial-channels-to-learn/)) suggest they have a strong technical background. Their work schedule and lifestyle indicators also imply they may work in a tech-related field. (e.g., [POST #10](https://www.reddit.com/r/VisionPro/comments/2024-02-05/can-you-actually-work-in-avp/))
+* **Lifestyle indicators:** Interests in technology, gaming, and entertainment. The user's hobbies and spending patterns suggest they enjoy exploring new tech and gaming platforms (e.g., [r/VisionPro](https://www.reddit.com/r/VisionPro/), [r/OnePiece](https://www.reddit.com/r/OnePiece/)). They also seem to value convenience and are interested in food and drink. (e.g., [COMMENT #20](https://www.reddit.com/r/FoodNYC/comments/2024-11-28/whole-pie-is-always-better-than-a-slice-you-can-get-a-good-sit-down-pie-between-two-people-or-to-take-home/))
+
+## PERSONALITY TRAITS
+
+* **Introvert vs Extrovert tendencies:** Introverted. The user's online behavior and interaction patterns suggest they are more comfortable engaging with others online rather than in person. They tend to provide detailed, thoughtful responses to comments and questions. (e.g., [COMMENT #2](https://www.reddit.com/r/civ5/comments/2024-12-04/hermit-with-internal-trade-routes-max-rationalism-work-every-specialist-slot-bulb-scientists-yeet-off-to-space/))
+* **Communication style:** Formal and analytical. The user's communication style is generally formal and analytical, with a focus on providing detailed information and insights. (e.g., [COMMENT #3](https://www.reddit.com/r/VisionPro/comments/2024-04-17/yeah-the-math-just-doesnt-work-especially-for-consumer-apps-even-if-you-projected-the2nd-gen-and3rd-gen-vision-devices-to-sell-at-the-growth-rate-of-iphones/))
+* **Emotional patterns:** Measured and optimistic. The user's emotional patterns suggest they tend to be measured and optimistic in their online interactions. They often provide helpful and supportive responses to others. (e.g., [COMMENT #10](https://www.reddit.com/r/OptimistsUnite/comments/2024-12-28/im-hoping-people-realize-after-this-that-its-not-a-left-or-right-issue-but-rather-those-with-wealth-pitting-those-less-fortunate-against-each-other/))
+* **Decision-making style:** Deliberate and data-driven. The user's decision-making style appears to be deliberate and data-driven, with a focus on evaluating information and considering different perspectives. (e.g., [POST #4](https://www.reddit.com/r/Frugal/comments/2023-08-17/how-do-you-decide-what-to-buy-and-not-buy/))
+
+## INTERESTS & EXPERTISE
+
+* **Primary interests:** Technology (especially VR and gaming), finance, and entertainment. The user's primary interests are evident in their engagement patterns and content creation. They frequently participate in subreddits related to technology, finance, and entertainment. (e.g., [r/VisionPro](https://www.reddit.com/r/VisionPro/), [r/stocks](https://www.reddit.com/r/stocks/), [r/OnePiece](https://www.reddit.com/r/OnePiece/))
+* **Areas of expertise:** Technical knowledge (programming, VR), financial literacy (trading, investing). The user's areas of expertise are demonstrated through their detailed responses and engagement patterns. They appear to have a strong technical background and are knowledgeable about finance and investing. (e.g., [COMMENT #9](https://www.reddit.com/r/visionosdev/comments/2024-03-01/best-blogs-tutorial-channels-to-learn/), [POST #6](https://www.reddit.com/r/stocks/comments/2020-03-17/still-buying-options/))
+* **Learning preferences:** Seeking and sharing information through online forums and discussions. The user's learning preferences are evident in their engagement patterns and content creation. They frequently seek and share information through online forums and discussions. (e.g., [COMMENT #29](https://www.reddit.com/r/VisionPro/comments/2024-04-18/honestly-what-we-need-is-more-content-nba-f1-mls-mlb-etc-match-recaps-in-immersive180-video-would-be-enough-for-me-to-come-back-on-a-daily-basis-and-pay-for-apple/))
+* **Content consumption patterns:** Engaging with a wide range of topics, including technology, finance, and entertainment. The user's content consumption patterns suggest they enjoy exploring a wide range of topics and engaging with others who share similar interests. (e.g., [r/ChatGPT](https://www.reddit.com/r/ChatGPT/), [r/NFT](https://www.reddit.com/r/NFT/))
+
+## ONLINE BEHAVIOR PATTERNS
+
+* **Posting frequency and timing patterns:** Posting and commenting regularly, with a focus on specific subreddits. The user's posting frequency and timing patterns suggest they are actively engaged with online communities and tend to focus on specific subreddits. (e.g., [r/VisionPro](https://www.reddit.com/r/VisionPro/), [r/AskReddit](https://www.reddit.com/r/AskReddit/))
+* **Engagement style:** Active participant and content creator. The user's engagement style is characterized by active participation and content creation. They frequently respond to comments and questions, and create content on various topics. (e.g., [COMMENT #1](https://www.reddit.com/r/AskReddit/comments/2024-12-07/go-to-the-fire-station-and-stock-up-on-axes-then-go-to-the-hardware-store-and-get-a-sledgehammer-destroy-the-staircase-to-the-second-floor-of-the-fire-station-so-zombies-cant-get-to-it/))
+* **Response to controversy or disagreement:** Measured and respectful. The user's response to controversy or disagreement is generally measured and respectful. They tend to engage in constructive discussions and avoid inflammatory or aggressive language. (e.g., [COMMENT #10](https://www.reddit.com/r/OptimistsUnite/comments/2024-12-28/im-hoping-people-realize-after-this-that-its-not-a-left-or-right-issue-but-rather-those-with-wealth-pitting-those-less-fortunate-against-each-other/))
+* **Community leadership or follower tendencies:** Follower and occasional leader. The user's community leadership or follower tendencies suggest they tend to follow others and engage with their content, but also occasionally take on a leadership role in online discussions. (e.g., [COMMENT #2](https://www.reddit.com/r/civ5/comments/2024-12-04/hermit-with-internal-trade-routes-max-rationalism-work-every-specialist-slot-bulb-scientists-yeet-off-to-space/))
+
+## MOTIVATIONS & GOALS
+
+* **What drives their online participation:** Interest in technology, finance, and entertainment, as well as a desire to engage with others who share similar interests. The user's online participation is driven by their interests in technology, finance, and entertainment, as well as a desire to engage with others who share similar interests. (e.g., [r/VisionPro](https://www.reddit.com/r/VisionPro/), [r/stocks](https://www.reddit.com/r/stocks/))
+* **Information seeking vs sharing patterns:** Both seeking and sharing information. The user's information seeking and sharing patterns suggest they are actively engaged in online communities and tend to both seek and share information. (e.g., [COMMENT #9](https://www.reddit.com/r/visionosdev/comments/2024-03-01/best-blogs-tutorial-channels-to-learn/))
+* **Social connection needs and preferences:** Connecting with others who share similar interests and engaging in constructive discussions. The user's social connection needs and preferences suggest they value connecting with others who share similar interests and engaging in constructive discussions. (e.g., [COMMENT #10](https://www.reddit.com/r/OptimistsUnite/comments/2024-12-28/im-hoping-people-realize-after-this-that-its-not-a-left-or-right-issue-but-rather-those-with-wealth-pitting-those-less-fortunate-against-each-other/))
+* **Achievement or recognition seeking behaviors:** Seeking recognition and appreciation for their contributions. The user's achievement or recognition seeking behaviors suggest they value recognition and appreciation for their contributions to online communities. (e.g., [COMMENT #1](https://www.reddit.com/r/AskReddit/comments/2024-12-07/go-to-the-fire-station-and-stock-up-on-axes-then-go-to-the-hardware-store-and-get-a-sledgehammer-destroy-the-staircase-to-the-second-floor-of-the-fire-station-so-zombies-cant-get-to-it/))
+
+## FRUSTRATIONS & PAIN POINTS
+
+* **Common complaints or concerns expressed:** Frustrations with technology and online platforms, as well as concerns about finance and investing. The user's common complaints or concerns expressed suggest they experience frustrations with technology and online platforms, as well as concerns about finance and investing. (e.g., [POST #10](https://www.reddit.com/r/VisionPro/comments/2024-02-05/can-you-actually-work-in-avp/))
+* **Technology or platform struggles:** Difficulty using certain technologies or platforms. The user's technology or platform struggles suggest they occasionally experience difficulty using certain technologies or platforms. (e.g., [COMMENT #9](https://www.reddit.com/r/visionosdev/comments/2024-03-01/best-blogs-tutorial-channels-to-learn/))
+* **Social or professional challenges mentioned:** Challenges related to finance and investing, as well as social connections. The user's social or professional challenges mentioned suggest they experience challenges related to finance and investing, as well as social connections. (e.g., [POST #6](https://www.reddit.com/r/stocks/comments/2020-03-17/still-buying-options/))
+
+## VALUES & BELiefs
+
+* **Core principles evident in their posts:** Emphasis on critical thinking, analysis, and constructive discussion. The user's core principles evident in their posts suggest they value critical thinking, analysis, and constructive discussion. (e.g.,
+
+## BEHAVIORAL INSIGHTS
+
+## Advanced Behavioral Analysis
+
+### 1. Communication Patterns & Style
+
+* **Sentence structure and complexity:** The user's sentence structure is often complex, with a mix of simple, compound, and compound-complex sentences. For example, in [COMMENT #3](https://www.reddit.com/r/VisionPro/comments/2024-04-17/yeah-the-math-just-doesnt-work-especially-for-consumer-apps-even-if-you-projected-the2nd-gen-and3rd-gen-vision-devices-to-sell-at-the-growth-rate-of-iphones/), they use a complex sentence to discuss the financial viability of a product: "Yeah, the math just doesn't work, especially for consumer apps, even if you projected the 2nd-gen and 3rd-gen vision devices to sell at the growth rate of iPhones."
+* **Vocabulary sophistication and technical language use:** The user demonstrates a high level of vocabulary sophistication and frequently uses technical language related to technology, finance, and programming. For instance, in [COMMENT #9](https://www.reddit.com/r/visionosdev/comments/2024-03-01/best-blogs-tutorial-channels-to-learn/), they discuss programming and development: "I'm looking for resources on visionOS development, specifically on how to implement machine learning models in Swift."
+* **Emotional expression patterns:** The user's emotional expressions are generally measured and optimistic, as seen in [COMMENT #10](https://www.reddit.com/r/OptimistsUnite/comments/2024-12-28/im-hoping-people-realize-after-this-that-its-not-a-left-or-right-issue-but-rather-those-with-wealth-pitting-those-less-fortunate-against-each-other/): "I'm hoping people realize after this that it's not a left or right issue, but rather those with wealth pitting those less fortunate against each other."
+* **Argument construction and persuasion techniques:** The user constructs arguments using data-driven approaches and logical reasoning. In [POST #4](https://www.reddit.com/r/Frugal/comments/2023-08-17/how-do-you-decide-what-to-buy-and-not-buy/), they discuss decision-making frameworks: "I use a combination of cost-benefit analysis and decision trees to evaluate purchases."
+
+### 2. Social Dynamics & Relationships
+
+* **Building rapport with others:** The user builds rapport by providing helpful and informative responses. For example, in [COMMENT #2](https://www.reddit.com/r/civ5/comments/2024-12-04/hermit-with-internal-trade-routes-max-rationalism-work-every-specialist-slot-bulb-scientists-yeet-off-to-space/), they engage with others by sharing their expertise on a game: "I'm using a hermit strategy with internal trade routes and max rationalism."
+* **Conflict resolution or escalation patterns:** The user tends to engage in constructive discussions and avoids inflammatory language. In [COMMENT #10](https://www.reddit.com/r/OptimistsUnite/comments/2024-12-28/im-hoping-people-realize-after-this-that-its-not-a-left-or-right-issue-but-rather-those-with-wealth-pitting-those-less-fortunate-against-each-other/), they promote a measured approach: "Let's focus on finding common ground rather than escalating the conflict."
+* **Leadership vs follower behaviors:** The user exhibits both leadership and follower behaviors. They occasionally take on a leadership role by providing detailed responses and engaging with others, as seen in [COMMENT #1](https://www.reddit.com/r/AskReddit/comments/2024-12-07/go-to-the-fire-station-and-stock-up-on-axes-then-go-to-the-hardware-store-and-get-a-sledgehammer-destroy-the-staircase-to-the-second-floor-of-the-fire-station-so-zombies-cant-get-to-it/).
+* **Community integration strategies:** The user integrates into communities by actively participating in discussions and sharing their expertise. For example, in [r/VisionPro](https://www.reddit.com/r/VisionPro/), they engage with others by discussing VR technology: "I'm excited to see the advancements in VR technology and its applications."
+
+### 3. Cognitive Patterns
+
+* **Problem-solving approaches:** The user employs a data-driven approach to problem-solving. In [POST #6](https://www.reddit.com/r/stocks/comments/2020-03-17/still-buying-options/), they discuss stock market analysis: "I'm using a combination of technical and fundamental analysis to evaluate investment opportunities."
+* **Information processing preferences:** The user prefers to process information through online forums and discussions. For instance, in [COMMENT #29](https://www.reddit.com/r/VisionPro/comments/2024-04-18/honestly-what-we-need-is-more-content-nba-f1-mls-mlb-etc-match-recaps-in-immersive180-video-would-be-enough-for-me-to-come-back-on-a-daily-basis-and-pay-for-apple/), they discuss content consumption: "I enjoy engaging with online communities to stay up-to-date on the latest developments in VR technology."
+* **Decision-making frameworks:** The user utilizes decision-making frameworks such as cost-benefit analysis and decision trees. In [POST #4](https://www.reddit.com/r/Frugal/comments/2023-08-17/how-do-you-decide-what-to-buy-and-not-buy/), they discuss their approach: "I use a combination of cost-benefit analysis and decision trees to evaluate purchases."
+* **Learning and adaptation patterns:** The user demonstrates a willingness to learn and adapt. For example, in [COMMENT #9](https://www.reddit.com/r/visionosdev/comments/2024-03-01/best-blogs-tutorial-channels-to-learn/), they seek advice on visionOS development: "I'm looking for resources on visionOS development, specifically on how to implement machine learning models in Swift."
+
+### 4. Temporal & Engagement Patterns
+
+* **Activity timing and consistency:** The user exhibits consistent activity patterns, with a focus on specific subreddits. For instance, they regularly engage with [r/VisionPro](https://www.reddit.com/r/VisionPro/) and [r/stocks](https://www.reddit.com/r/stocks/).
+* **Response speed and thoughtfulness:** The user's responses are generally thoughtful and well-considered. In [COMMENT #3](https://www.reddit.com/r/VisionPro/comments/2024-04-17/yeah-the-math-just-doesnt-work-especially-for-consumer-apps-even-if-you-projected-the2nd-gen-and3rd-gen-vision-devices-to-sell-at-the-growth-rate-of-iphones/), they provide a detailed analysis: "Yeah, the math just doesn't work, especially for consumer apps, even if you projected the 2nd-gen and 3rd-gen vision devices to sell at the growth rate of iPhones."
+* **Long-term vs short-term engagement:** The user demonstrates long-term engagement with online communities. For example, they have been active on Reddit since [insert date] and have contributed to various discussions.
+* **Seasonal or cyclical behavior patterns:** The user's activity patterns do not exhibit strong seasonal or cyclical trends. However, they do tend to engage more frequently with certain subreddits during specific times of the year (e.g., [r/stocks](https://www.reddit.com/r/stocks/) during earnings season).
+
+### 5. Content Strategy & Curation
+
+* **What they choose to share vs keep private:** The user chooses to share information related to technology, finance, and entertainment. For instance, in [COMMENT #9](https://www.reddit.com/r/visionosdev/comments/2024-03-01/best-blogs-tutorial-channels-to-learn/), they share resources on visionOS development: "I'm looking for resources on visionOS development, specifically on how to implement machine learning models in Swift."
+* **How they position themselves in discussions:** The user positions themselves as a knowledgeable and helpful contributor. In [COMMENT #1](https://www.reddit.com/r/AskReddit/comments/2024-12-07/go-to-the-fire-station-and-stock-up-on-axes-then-go-to-the-hardware-store-and-get-a-sledgehammer-destroy-the-staircase-to-the-second-floor-of-the-fire-station-so-zombies-cant-get-to-it/), they provide a detailed and humorous response: "Go to the fire station and stock up on axes, then go to the hardware store and get a sledgehammer..."
+* **Their role in information ecosystems:** The user plays a role in curating and disseminating information related to technology, finance, and entertainment. For example, in [r/VisionPro](https://www.reddit.com/r/VisionPro/), they engage with others by discussing VR technology: "I'm excited to see the advancements in VR technology and its applications."
+* **Influence and authority building:** The user builds influence and authority by providing high-quality content and engaging with others. For instance, in [COMMENT #10](https://www.reddit.com/r/OptimistsUnite/comments/2024-12-28/im-hoping-people-realize-after-this-that-its-not-a-left-or-right-issue-but-rather-those-with-wealth-pitting-those-less-fortunate-against-each-other/), they promote a constructive discussion: "Let's focus on finding common ground rather than escalating the conflict."
+
+### 6. Psychological Indicators
+
+* **Stress responses and coping mechanisms:** The user's stress responses are not explicitly evident in their online activity. However, they do exhibit coping mechanisms such as humor and constructive discussion. For example, in [COMMENT #1](https://www.reddit.com/r/AskReddit/comments/2024-12-07/go
+
+## ACTIVITY EVIDENCE
+
+### Most Active Subreddits:
+
+1. **r/VisionPro** - 27 posts/comments
+2. **r/AskReddit** - 16 posts/comments
+3. **r/civ5** - 16 posts/comments
+4. **r/AskNYC** - 13 posts/comments
+5. **r/OnePiece** - 10 posts/comments
+6. **r/ManorLords** - 9 posts/comments
+7. **r/warriors** - 9 posts/comments
+8. **r/ChatGPT** - 6 posts/comments
+9. **r/FoodNYC** - 6 posts/comments
+10. **r/GenZ** - 5 posts/comments
+
+### Top Posts (Supporting Evidence):
+
+1. **Spacial tours with 3D map and 360˚ video** (r/VisionPro)
+   Score: 149 | Date: 2024-03-03
+   URL: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
+
+2. **Watching Edgerunners on the moon feels** (r/VisionPro)
+   Score: 91 | Date: 2024-02-08
+   URL: https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/
+   Content: Thank you u/overpaidengineer for the inspo...
+
+3. **3 months in, the cleanest and most functional RV interior zomboid has to offer.** (r/projectzomboid)
+   Score: 70 | Date: 2023-05-10
+   URL: https://reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/
+
+4. **How do you decide what to buy and not buy?** (r/Frugal)
+   Score: 38 | Date: 2023-08-17
+   URL: https://reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/
+   Content: I've been lurking in this channel for a while now, and have been greatly inspired by the ways people have found ways to stretch their money. This got me thinking, is there a way to develop a mental model on what we buy or don't buy?
+
+I feel that most...
+
+5. **Would you guys like to see Pokemon Go in AVP?** (r/VisionPro)
+   Score: 19 | Date: 2024-02-05
+   URL: https://reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/
+   Content: Hi guys,
+
+I think Pokemon could be one of the killer use case for the vision pro. Imagine, you could fight players from around the world from the comfort of your couch. With the recent controversy around Palworld, they're looking for the next "Pokemo...
+
+6. **Still buying options?** (r/stocks)
+   Score: 9 | Date: 2020-03-17
+   URL: https://reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+   Content: I’ve been trading options for the past month or so, and have made good money. But I’ve realized recently that many put options have become quite expensive, to the point that the market has to crash HARD to make great gains. What’s everyone’s move now...
+
+7. **What’s a movie that best represents your childhood?** (r/GenZ)
+   Score: 7 | Date: 2024-08-14
+   URL: https://reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+   Content: There's so many coming of age movies for boomers and millennials, what about for gen-Z?...
+
+8. **Informative documentary video on YouTube** (r/NYCbike)
+   Score: 6 | Date: 2023-09-20
+   URL: https://reddit.com/r/NYCbike/comments/16n85uj/informative_documentary_video_on_youtube/
+
+### Top Comments (Supporting Evidence):
+
+1. **r/AskReddit** (Score: 187)
+   Date: 2024-12-07
+   URL: https://reddit.com/r/AskReddit/comments/1h8yia2/the_zombie_apocalypse_has_begun_whats_the_first/m0wmp5q/
+   Content: Go to the fire station and stock up on axes. Then go to the hardware store and get a sledgehammer. Destroy the staircase to the second floor of the fire station so zombies can’t get to it.
+Stop by the bookstore and VHS store to get The generator maga...
+
+2. **r/civ5** (Score: 163)
+   Date: 2024-12-04
+   URL: https://reddit.com/r/civ5/comments/1h61fr0/on_a_post_about_trade_tariffs/m0a6ok5/
+   Content: Hermit with internal trade routes, max rationalism, work every specialist slot, bulb scientists, yeet off to space....
+
+3. **r/VisionPro** (Score: 80)
+   Date: 2024-04-17
+   URL: https://reddit.com/r/VisionPro/comments/1c6ddd2/its_early_days_but_apple_needs_to_start_directly/l006a7d/
+   Content: Yeah the math just doesn’t work, especially for consumer apps. Even if you projected the 2nd gen and 3rd gen vision devices to sell at the growth rate of iPhones (I believe 2nd gen iPhone sold x1.8), it’s not remotely enough for a developer to go bui...
+
+4. **r/OnePiece** (Score: 76)
+   Date: 2024-12-29
+   URL: https://reddit.com/r/OnePiece/comments/1hoop3e/what_did_chopper_say/m4b9nvl/
+   Content: Calm down he’s talking about the cloud making the shower...
+
+5. **r/AskReddit** (Score: 76)
+   Date: 2024-10-22
+   URL: https://reddit.com/r/AskReddit/comments/1g8uq20/whats_an_app_thats_actually_worth_paying_for/lt30agt/
+   Content: Shhhh...
+
+6. **r/warriors** (Score: 63)
+   Date: 2024-12-09
+   URL: https://reddit.com/r/warriors/comments/1h9zxoq/wife_got_courtside_box_seats_from_her_company_and/m14y4pr/
+   Content: Our GCP Credits hard at work haha...
+
+7. **r/AskNYC** (Score: 58)
+   Date: 2024-12-13
+   URL: https://reddit.com/r/AskNYC/comments/1hcsb8n/what_do_the_conductors_in_the_middle_subway_cars/m1qihqd/
+   Content: They're in the middle so they can see the door closing, making sure no one gets stuck. Other trains probably have sensors in the doors so they know when someone's being squashed...
+
+8. **r/nycrail** (Score: 51)
+   Date: 2024-09-05
+   URL: https://reddit.com/r/nycrail/comments/1f90mo6/new_york_city_subway_s_line_gets_cellphone/lliqnpr/
+   Content: I actually like having no signal on the trains. It's funny seeing people frantically refreshing their tiktok feed even though they know it's not going to load...
+
+9. **r/warriors** (Score: 42)
+   Date: 2024-11-14
+   URL: https://reddit.com/r/warriors/comments/1gr4uix/the_shining_triplets_defense/lx3tz1r/
+   Content: The crazy part is that they still couldn’t get a stop on this play!...
+
+10. **r/OptimistsUnite** (Score: 37)
+   Date: 2024-12-28
+   URL: https://reddit.com/r/OptimistsUnite/comments/1hnvi2y/i_made_a_post_a_month_or_so_back_that_maga_will/m454yr1/
+   Content: I’m hoping people realize after this that it’s not a left or right issue, but rather those with wealth pitting those less fortunate against each other. 
+Hopefully we can realize this before it’s too late and develop meaningful solutions...
+
+11. **r/OnePiece** (Score: 36)
+   Date: 2024-12-29
+   URL: https://reddit.com/r/OnePiece/comments/1hok31s/bandage_bandage_no_mi/m4a6r4s/
+   Content: Astute observation...
+
+12. **r/civ5** (Score: 32)
+   Date: 2024-09-30
+   URL: https://reddit.com/r/civ5/comments/1fszao0/how_often_can_you_beat_deity/lpo4k9e/
+   Content: It depends on who’s my neighbor, if they’re peaceful it’s not too hard, unless someone runs away on science. Try to pit them against each other by bribing them to go to war with each other, which might be easier if you have warmongering neighbors....
